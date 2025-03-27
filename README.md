@@ -5,8 +5,8 @@ This is a simple boilerplate project for getting started with a web development 
 ## Features
 
 - Vanilla JavaScript: Write modern JavaScript code without any frameworks or libraries.
-- Tailwind CSS: Utilize the power of Tailwind CSS to create highly customizable and responsive UI components.
-- Vite: Enjoy a fast development experience with Vite's blazing-fast build tooling.
+- Tailwind CSS: Utilize the power of Tailwind CSS to create highly customizable and responsive UI components. (v. 4.0.17)
+- Vite: Enjoy a fast development experience with Vite's blazing-fast build tooling. (v. 6.2.3)
 
 ## Getting Started
 
@@ -48,12 +48,12 @@ npm run dev
 vanilla-tailwindcss-boilerplate/
 ├── .gitignore List of files and directories to be ignored by version control.
 ├── index.html Entry point HTML file.
-├── main.js Main JavaScript file.
 ├── package.json Project configuration and dependencies.
-├── postcss.config.js PostCSS configuration file.
 ├── README.md Project documentation.
-├── style.scss Main Sass file. Write your styles here.
-├── tailwind.config.js Tailwind CSS configuration file.
+├── vite.config.js Vite configuration file.
+├── src/
+│   ├── main.js Main JavaScript file.
+│   ├── style.css Main CSS file. Add Tailwind CSS setup here.
 ```
 
 ## Commands
