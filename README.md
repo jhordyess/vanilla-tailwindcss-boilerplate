@@ -5,8 +5,8 @@ This is a simple boilerplate project for getting started with a web development 
 ## Features
 
 - Vanilla JavaScript: Write modern JavaScript code without any frameworks or libraries.
-- Tailwind CSS: Utilize the power of Tailwind CSS to create highly customizable and responsive UI components. (v. 4.0.17)
-- Vite: Enjoy a fast development experience with Vite's blazing-fast build tooling. (v. 6.2.3)
+- Tailwind CSS: Utilize the power of Tailwind CSS to create highly customizable and responsive UI components. (v. 4)
+- Vite: Enjoy a fast development experience with Vite's blazing-fast build tooling. (v. 7)
 
 ## Getting Started
 
@@ -25,18 +25,12 @@ cd vanilla-tailwindcss-boilerplate
 3. Install dependencies:
 
 ```sh
-yarn
-
-# With npm
 npm install
 ```
 
 4. Start the development server:
 
 ```sh
-yarn dev
-
-# With npm
 npm run dev
 ```
 
@@ -46,14 +40,14 @@ npm run dev
 
 ```md
 vanilla-tailwindcss-boilerplate/
-├── .gitignore List of files and directories to be ignored by version control.
-├── index.html Entry point HTML file.
-├── package.json Project configuration and dependencies.
-├── README.md Project documentation.
-├── vite.config.js Vite configuration file.
+├── .gitignore              # List of files and directories to be ignored by version control.
+├── index.html              # Entry point HTML file.
+├── package.json            # Project configuration and dependencies.
+├── README.md               # Project documentation.
+├── vite.config.js          # Vite configuration file.
 ├── src/
-│   ├── main.js Main JavaScript file.
-│   ├── style.css Main CSS file. Add Tailwind CSS setup here.
+│   ├── main.js             # Main JavaScript file.
+│   ├── style.css           # Main CSS file. Add Tailwind CSS setup here.
 ```
 
 ## Commands
@@ -61,27 +55,18 @@ vanilla-tailwindcss-boilerplate/
 ### Start the development server
 
 ```sh
-yarn dev
-
-# With npm
 npm run dev
 ```
 
 ### Build the project for production
 
 ```sh
-yarn build
-
-# With npm
 npm run build
 ```
 
 ### Preview the project before production
 
 ```sh
-yarn preview
-
-# With npm
 npm run preview
 ```
 
