@@ -6,7 +6,7 @@ This is a simple boilerplate project for getting started with a web development 
 
 - Vanilla JavaScript: Write modern JavaScript code without any frameworks or libraries.
 - Tailwind CSS: Utilize the power of Tailwind CSS to create highly customizable and responsive UI components. (v. 4)
-- Vite: Enjoy a fast development experience with Vite's blazing-fast build tooling. (v. 7)
+- Vite: Enjoy a fast development experience with Vite's blazing-fast build tooling. (v. 8)
 
 ## Getting Started
 
@@ -16,25 +16,25 @@ This is a simple boilerplate project for getting started with a web development 
 git clone https://github.com/jhordyess/vanilla-tailwindcss-boilerplate.git
 ```
 
-2. Navigate to the project folder:
+1. Navigate to the project folder:
 
 ```sh
 cd vanilla-tailwindcss-boilerplate
 ```
 
-3. Install dependencies:
+1. Install dependencies:
 
 ```sh
 npm install
 ```
 
-4. Start the development server:
+1. Start the development server:
 
 ```sh
 npm run dev
 ```
 
-5. Open your browser and visit [http://localhost:5173](http://localhost:5173) to see your project.
+1. Open your browser and visit [http://localhost:5173](http://localhost:5173) to see your project.
 
 ## Project Structure
 
